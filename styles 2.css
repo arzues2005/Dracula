@@ -17,4 +17,11 @@ li{
 h3{
     color: darkorchid;
     font-size: 34;
+
+}
+body{
+    background-image: url('hotel\ transilvania.jpg');
+    background-size: cover; /*la imagen cubre toda la pantalla*/
+    background-repeat: no-repeat; /*evita repeticiones*/
+    background-position: center; /*centra la imagen*/
 }
